@@ -15,7 +15,7 @@
   },
   "scripts": {
     "commit": "git-cz",
-    "sonar-scanner": "/var/lib/jenkins/workspace/sonar-demo/node_modules/sonar-scanner/bin/sonar-scanner",
+    "sonar-scanner": "/var/lib/jenkins/workspace/sonar/node_modules/sonar-scanner/bin/sonar-scanner",
     "test-i18n": "jasmine-node i18n/spec",
     "test-i18n-ucd": "jasmine-node i18n/ucd/spec"
   },
